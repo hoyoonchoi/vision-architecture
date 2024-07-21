@@ -15,9 +15,10 @@ readme 파일을 읽으면 어떤 코드가 구현 되어있느지 확인 할 �
 
 에 대해서 학습하고 구현 코드 모임 입니다. 
 
-## CIDAR data 
+## CIDAR data 2 
 1. Conv1를 기반한 기본적인 MLP model
 2. VGG net 코드 구현
 3. Resnet 코드 구현
+4. mobilenet 코드 구현 (mobile net V2)
 
 에 대해서 학습 하고 구현 한 코드 모임입니다. 
