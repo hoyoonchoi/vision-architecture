@@ -27,6 +27,6 @@ readme 파일을 읽으면 어떤 코드가 구현 되어있느지 확인 할 �
 neRF의 모델을 pytorch로 구현된 모델을 공부하는 파일입니다. 
 원본 파일에 주석 처리를 해서 상세히 설명을 덧 붙였습니다. 
 
-# https://github.com/yenchenlin/nerf-pytorch
-# https://xoft.tistory.com/15
+#### https://github.com/yenchenlin/nerf-pytorch
+#### https://xoft.tistory.com/15
 코드와 블로그를 참고하며 공부하였습니다. 
